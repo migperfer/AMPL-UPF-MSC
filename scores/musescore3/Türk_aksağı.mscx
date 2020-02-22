@@ -145,51 +145,23 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>Devr-i Kebir</text>
+          <text>Türk aksağı</text>
           </Text>
         </VBox>
       <Measure>
         <voice>
           <TimeSig>
-            <sigN>28</sigN>
-            <sigD>4</sigD>
+            <sigN>5</sigN>
+            <sigD>8</sigD>
+            <Groups>
+              <Node pos="4" action="512"/>
+              <Node pos="8" action="512"/>
+              <Node pos="12" action="273"/>
+              <Node pos="16" action="512"/>
+              </Groups>
             </TimeSig>
           <StaffText>
-            <offset x="-1" y="-3"/>
-            <text>Düm</text>
-            </StaffText>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <StaffText>
-            <offset x="-1" y="-3"/>
-            <text>Düm</text>
-            </StaffText>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="-0.5" y="2"/>
-            <text>Tek</text>
-            </StaffText>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <StaffText>
-            <offset x="-1" y="-3"/>
+            <offset x="-1.3844" y="-2.76942"/>
             <text>Düm</text>
             </StaffText>
           <Chord>
@@ -200,122 +172,7 @@
               </Note>
             </Chord>
           <StaffText>
-            <placement>below</placement>
-            <offset x="-0.5" y="2"/>
-            <text>Tek</text>
-            </StaffText>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <StaffText>
-            <offset x="-1" y="-3"/>
-            <text>Düm</text>
-            </StaffText>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <StaffText>
-            <offset x="-1" y="-3"/>
-            <text>Düm</text>
-            </StaffText>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="-0.5" y="2"/>
-            <text>Tek</text>
-            </StaffText>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="-0.5" y="2"/>
-            <text>Tek</text>
-            </StaffText>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="-0.5" y="2"/>
-            <text>Tek</text>
-            </StaffText>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <StaffText>
-            <offset x="-1" y="-3"/>
-            <text>Düm</text>
-            </StaffText>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <StaffText>
-            <offset x="-1" y="-3"/>
-            <text>Düm</text>
-            </StaffText>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <StaffText>
-            <text>Ta</text>
-            </StaffText>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <StaffText>
-            <text>Hek</text>
-            </StaffText>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <StaffText>
+            <offset x="-0.153822" y="-2.92325"/>
             <text>Te</text>
             </StaffText>
           <Chord>
@@ -327,33 +184,12 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="2"/>
+            <minDistance>-999</minDistance>
+            <offset x="-0.153822" y="1.69079"/>
             <text>Ke</text>
             </StaffText>
           <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <StaffText>
-            <text>Te</text>
-            </StaffText>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="0" y="2"/>
-            <text>Ke</text>
-            </StaffText>
-          <Chord>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
